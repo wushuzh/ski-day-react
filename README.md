@@ -1,5 +1,7 @@
 # Ski Day Count React.js Application
 
+`THIS APP INCLUDES`
+
 ES6 Components
 
 Stateless Components
